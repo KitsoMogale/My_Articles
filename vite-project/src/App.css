@@ -32,6 +32,16 @@ h1{
   top:5vh;
 }
 
+.wifi{
+  width: 30vh;
+}
+
 .conclusion{
   background-color: grey;
+  font-size: large;
+}
+
+.con{
+  color: black;
+  font-weight: bold;
 }

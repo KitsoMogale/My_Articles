@@ -38,7 +38,11 @@ export const Iot = ()=>{
         <div className="conclusion">
             <p>These are various other modules used as input devices to the arduino.<br/>
                These include temperature sensor, object detector, distance module and water sensor.
-             </p>
+            </p>
+            <img className="wifi" src='/download (4).jpg'/>
+            <p className="con">IoT sensors play a crucial role in connecting the physical world to the digital world, enabling a wide range of applications that enhance efficiency, safety, and convenience. Choosing the right sensor and communication protocol depends on the specific requirements of the application, such as range, data rate, power consumption, and environmental conditions.<br/>
+            With these electronic devices, our programming skills can be used in creating robotics, solving problems that require automated input from the physical environment and automating basic tasks such as switching off the house lights when the sun is setting, switching on the heater when temperatures drop below a certain point etc.  
+            </p>
 
         </div>
 
