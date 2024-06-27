@@ -1,8 +1,7 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
-}
 
+#iot{
+  width:40vh;
+  position: relative;
+  left: 70vh;
+}
 

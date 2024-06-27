@@ -1,0 +1,14 @@
+#root{
+  background-color: black;
+  color:bisque;
+  height: 100%;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  align-items: center;
+}
+
+#arduino{
+  width:50vh;
+}
+
