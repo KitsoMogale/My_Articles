@@ -2,13 +2,15 @@
   background-color: black;
   color:bisque;
   height: 100%;
+  width: 80%;
+  align-self: center;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
   align-items: center;
+  overflow-x: hidden;
 }
 
-#arduino{
-  width:50vh;
-}
+
+
 

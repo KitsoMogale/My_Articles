@@ -1,7 +1,37 @@
 
 #iot{
-  width:40vh;
+  width:49vh;
   position: relative;
-  left: 70vh;
+  left: 60vh;
+}
+h1{
+  color: white;
 }
 
+#arduino{
+  width:70vh;
+  position: relative;
+  left: -10vh;
+}
+
+#wifi{
+  width:30vh;
+}
+
+#conclusion{
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  left:40vh;
+}
+
+#wifi_{
+  width: 30vh;
+  margin-right: 7vh;
+  position: relative;
+  top:5vh;
+}
+
+.conclusion{
+  background-color: grey;
+}
