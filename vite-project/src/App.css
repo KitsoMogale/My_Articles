@@ -45,3 +45,26 @@ h1{
   color: black;
   font-weight: bold;
 }
+
+.youtube{
+  width: 80vh;
+  height: 60vh;
+  margin: 5vh;
+}
+
+.ptube{
+  position: relative;
+  top:30vh;
+  width:20vh;
+}
+
+
+.youTube{
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  left: 30vh;
+}
+
+
+
