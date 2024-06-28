@@ -23,9 +23,13 @@ export const PodcastReview = ()=>{
             </div>
            </p>
 
-           <h4>The reason for these companies to focus less on design and creativity is due to the overload of having to manage data across their platform.The skill to produce a creativly interactive platform is there but a big problem arises as the data increases and managing the a consistent user experience becomes congested.Thus these top companies focus on keeping a simple design for the pre-advantage of managing data flow as error-free as possible.
+           <h4>The reason for these companies to focus less on design and creativity is due to the overload of having to manage data across their platform.The skill to produce a creativly interactive platform is there but a big problem arises as the data increases and managing a consistent user experience becomes congested.Thus these top companies focus on keeping a simple design for the pre-advantage of managing data flow as error-free as possible.
             <br/>
-            
+            <br/>
+            Why Data Management is Critical<br/>
+Performance: Efficient data management ensures that applications run smoothly and quickly, providing a better user experience.,<br/>
+Scalability: Proper handling of data is essential for building scalable applications that can handle growing amounts of data and increasing numbers of users.<br/>
+Maintainability: Code that effectively manages data is often easier to maintain and debug. Clear data flows and well-structured state management make it easier for developers to understand and modify the code.
            </h4>
 
         </>
