@@ -3,6 +3,7 @@ import { Iot } from './articles/Iot'
 import {Layout} from './components/Layout'
 import {BrowserRouter,Routes,Route} from 'react-router-dom'
 import './App.css'
+import { PodcastReview } from './articles/PodcastReview'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -12,7 +13,8 @@ function App() {
     <BrowserRouter>
      <Routes>
       <Route path='/' element={<Layout/>}>
-       <Iot/>
+       <Route index element={<Iot/>}/>
+       <Route path='podcastReview' element={<PodcastReview/>}/>
       </Route>
       
      </Routes>
