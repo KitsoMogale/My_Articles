@@ -32,6 +32,8 @@ Scalability: Proper handling of data is essential for building scalable applicat
 Maintainability: Code that effectively manages data is often easier to maintain and debug. Clear data flows and well-structured state management make it easier for developers to understand and modify the code.
            </h4>
 
+           <p>The podcast app involved mainly the fetching and displaying of data. It had other requirements for user-experience , like enablind the user to 'favourite' the episode in a specific season of a specific show, being able to remove a favourited episode out of the favourites list.All this creates the foundation of building the whole podacts, which is managing data.</p>
+
         </>
     )
 }

@@ -4,6 +4,15 @@
   position: relative;
   left: 60vh;
 }
+
+#header{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  border-bottom: 3px white solid;
+  background-color: antiquewhite;
+}
+
 h1{
   color: white;
 }
