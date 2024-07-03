@@ -20,7 +20,6 @@ export const Iot = ()=>{
 
              <p>
              Meaning you could still do majority of the programming in a nodesjs server, and decide what should happen when certain input data is received. One person may also ask how a plain electronic device like an arduino can communicate with a server. This is made possible by other electronic devices called sensors or electronic modules.  <br/>
-             Internet of Things (IoT) sensors play a crucial role in connecting the physical world to the digital world, enabling a wide range of applications that enhance efficiency, safety, and convenience. Choosing the right sensor and communication protocol depends on the specific requirements of the application, such as range, data rate, power consumption, and environmental conditions.
              </p>
             
           </main>
