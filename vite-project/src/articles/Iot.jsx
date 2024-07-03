@@ -26,12 +26,12 @@ export const Iot = ()=>{
 
         </div>
         <div id='conclusion'>
-          <p id='wifi_'>This is a wifi module, it helps the arduino connect to the internet if available. 
+          <p className='wifi_'>This is a wifi module, it helps the arduino connect to the internet if available. 
             <br/>
           Pros: High data rates, wide coverage.
           Cons: High power consumption, potential interference.
            </p>
-          <img id='wifi' src='/Screenshot_20240627_134103.jpg'/>
+          <img className='wifi' src='/Screenshot_20240627_134103.jpg'/>
         </div>
 
         <div className="conclusion">

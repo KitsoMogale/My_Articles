@@ -77,3 +77,34 @@ h1{
 
 
 
+@media (max-width: 767px) {
+   
+  #iot{
+    width:28vh;
+    position: relative;
+    left: 5vh;
+  }
+  #arduino{
+    width:40vh;
+  }
+  #conclusion{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: relative;
+    left:3vh;
+  }
+
+  .youTube{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    left: 10vh;
+  }
+
+  .youtube{
+    width: 50vh;
+    height: 40vh;
+    margin: 2vh;
+  }
+}

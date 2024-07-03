@@ -10,7 +10,7 @@ export const PodcastReview = ()=>{
            <br/> This article explores how and why data management plays a crucial role in JavaScript coding.
            </p>
            <p>
-            When we take a glance at the biggest software companies in the world, their end software products seem to be very basic , with no touch of extra creative interactivity. One of the most visited websites, YouTube, <br/>
+            When we take a glance at the biggest software companies in the world, their end software products seem to be very basic , with no touch of extra creative interactivity. One of the most visited websites, YouTub:, <br/>
             <div className="youTube">
                <p className='ptube'>This layout and design is very basic. Infact any junior developer can produce this layout and design.</p>
                <img className='youtube' src='/Screenshot (120).png'/>
