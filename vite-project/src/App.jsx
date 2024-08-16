@@ -5,6 +5,7 @@ import {BrowserRouter,Routes,Route} from 'react-router-dom'
 import './App.css'
 import { PodcastReview } from './articles/PodcastReview'
 import { PortfolioOfEvidence } from './articles/PortfolioOfEvidence'
+import {TBONTB} from './articles/ToBeOrNotToBe'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -17,6 +18,7 @@ function App() {
        <Route index element={<Iot/>}/>
        <Route path='podcastReview' element={<PodcastReview/>}/>
        <Route path='porfolioOfEvidence' element={<PortfolioOfEvidence/>}/>
+       <Route path='ToBeOrNotToBe' element={<TBONTB/>}/>
       </Route>
       
      </Routes>
