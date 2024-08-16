@@ -54,6 +54,12 @@ export const TBONTB = ()=>{
                     <li><i>No certification</i></li>
                 </ul>
             </div>
+
+            <h2>2. To be an employed software developer or be a self-employed software developer.</h2>
+
+            <h1><i>To be continued.....
+                <br/>or to not be continued.....</i></h1>
+
           </main>
 
         </div>
