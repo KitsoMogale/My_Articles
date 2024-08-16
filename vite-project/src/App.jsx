@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import { Iot } from './articles/Iot'
 import {Layout} from './components/Layout'
 import {BrowserRouter,Routes,Route} from 'react-router-dom'
@@ -8,7 +7,6 @@ import { PortfolioOfEvidence } from './articles/PortfolioOfEvidence'
 import {TBONTB} from './articles/ToBeOrNotToBe'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
